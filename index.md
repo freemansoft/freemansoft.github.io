@@ -19,3 +19,5 @@ git fetch origin
 git branch -u origin/main main
 git remote set-head origin -a
 ```
+## This site
+This site is hosted on [GitHub Pages](https://pages.github.com/")
