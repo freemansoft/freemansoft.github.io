@@ -3,6 +3,8 @@ All repositories rooted here are migrating default branch names of `master` to `
 
 All repositories forked from other repositories will retain the naming conventions of those repositories.
 
+Learn more about GitHub default branch name migration https://github.com/github/renaming
+
 ### Branch Migration
 
 You can migrate from master to main in a forked repository with
