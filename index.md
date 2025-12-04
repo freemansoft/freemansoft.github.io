@@ -3,6 +3,7 @@
 * [GitHub](https://github.com/freemansoft)
 * [Blog](https://joe.blog.freemansoft.com)
 * [YouTube Channel](https://www.youtube.com/channel/UCKHhuCt5LPp8defcKMpf7zwhttps://www.youtube.com/channel/UCKHhuCt5LPp8defcKMpf7zw)
+* [LinkedIn](https://www.linkedin.com/in/1freeman/)
 
 ## My GitHub pages web site (this site)
 
