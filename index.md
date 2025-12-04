@@ -9,9 +9,10 @@
 * [This GitHub Pages web site](https://freemansoft.github.io/)
 * [This source for this GitHub Pages hosted web site](https://github.com/freemansoft/freemansoft.github.io)
 
-## freemans-score-card
+## freemans-score-card multi-platform Flutter Application
 
-* [FreemanS fs-score-card Flutter app Web Deployment](https://freemansoft.github.io/freemans-score-card/)
-* FreemanS fs-score-card Flutter app for iOS in Apple AppStore _not yet available_
-* FreemanS fs-score-card Flutter app for MacOS in Apple AppStore _not yet available_
+* [FreemanS fs-score-card Flutter Web Deployment](https://freemansoft.github.io/freemans-score-card/)
+* FreemanS fs-score-card Flutter iOS in Apple AppStore _not yet available_
+* FreemanS fs-score-card Flutter macOS in Apple AppStore _not yet available_
+* [Freemans fs-score-card Flutter Source Code on GitHub](https://github.com/freemansoft/fs-game-score)
 * [FreemanS fs-score-card Flutter downloadable Android APK](https://github.com/freemansoft/fs-game-score/releases)
