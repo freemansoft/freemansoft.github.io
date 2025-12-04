@@ -12,10 +12,12 @@
 
 ## FreemanS Score Card multi-platform Flutter Application
 
+        links to Apple `iOS` and `macOS` app stores are the same and go to platform story of the device you are on
+
 * [Public Web Deployment](https://freemansoft.github.io/freemans-score-card/)
-* iOS in Apple AppStore _not yet available_
-* macOS in Apple AppStore _not yet available_
+* [iOS in Apple AppStore](https://apps.apple.com/us/app/freemans-score-card/id6755344139)
+* [macOS in Apple AppStore](https://apps.apple.com/us/app/freemans-score-card/id6755344139)
 * [Android downloadable APK](https://github.com/freemansoft/fs-game-score/releases)
-* Windows works locally but _not yet downloadable_
+* Windows platform app runs locally. There is no downloadable artifact _is available at this time_
 
 * [freemans-score-card Source Code on GitHub](https://github.com/freemansoft/fs-game-score)
