@@ -14,5 +14,6 @@
 * [FreemanS Score Card Flutter Web Deployment](https://freemansoft.github.io/freemans-score-card/)
 * FreemanS Score Card Flutter iOS in Apple AppStore _not yet available_
 * FreemanS Score Card Flutter macOS in Apple AppStore _not yet available_
-* [Freemans Score Card Flutter Source Code on GitHub](https://github.com/freemansoft/fs-game-score)
 * [FreemanS Score Card Flutter downloadable Android APK](https://github.com/freemansoft/fs-game-score/releases)
+
+* [Freemans Score Card Flutter Source Code on GitHub](https://github.com/freemansoft/fs-game-score)
