@@ -11,11 +11,11 @@
 
 ## freemans-score-card multi-platform Flutter Application
 
-* [FreemanS Score Card Flutter Web Deployment](https://freemansoft.github.io/freemans-score-card/)
-* FreemanS Score Card Flutter iOS in Apple AppStore _not yet available_
-* FreemanS Score Card Flutter macOS in Apple AppStore _not yet available_
-* [FreemanS Score Card Flutter downloadable Android APK](https://github.com/freemansoft/fs-game-score/releases)
-* FreemanS Score Card Flutter Windows works locally but _not yet downloadable_
+* [FreemanS Score Card Web Deployment](https://freemansoft.github.io/freemans-score-card/)
+* FreemanS Score Card iOS in Apple AppStore _not yet available_
+* FreemanS Score Card macOS in Apple AppStore _not yet available_
+* [FreemanS Score Card downloadable Android APK](https://github.com/freemansoft/fs-game-score/releases)
+* FreemanS Score Card Windows works locally but _not yet downloadable_
 
 
-* [Freemans Score Card Flutter Source Code on GitHub](https://github.com/freemansoft/fs-game-score)
+* [Freemans Score Card Source Code on GitHub](https://github.com/freemansoft/fs-game-score)
