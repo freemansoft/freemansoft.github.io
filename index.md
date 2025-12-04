@@ -9,13 +9,12 @@
 * [This GitHub Pages web site](https://freemansoft.github.io/)
 * [This source for this GitHub Pages hosted web site](https://github.com/freemansoft/freemansoft.github.io)
 
-## freemans-score-card multi-platform Flutter Application
+## FreemanS Score Card multi-platform Flutter Application
 
-* [FreemanS Score Card Web Deployment](https://freemansoft.github.io/freemans-score-card/)
-* FreemanS Score Card iOS in Apple AppStore _not yet available_
-* FreemanS Score Card macOS in Apple AppStore _not yet available_
-* [FreemanS Score Card downloadable Android APK](https://github.com/freemansoft/fs-game-score/releases)
-* FreemanS Score Card Windows works locally but _not yet downloadable_
+* [Web Deployment](https://freemansoft.github.io/freemans-score-card/)
+* iOS in Apple AppStore _not yet available_
+* macOS in Apple AppStore _not yet available_
+* [Android downloadable APK](https://github.com/freemansoft/fs-game-score/releases)
+* Windows works locally but _not yet downloadable_
 
-
-* [Freemans Score Card Source Code on GitHub](https://github.com/freemansoft/fs-game-score)
+* [freemans-score-card Source Code on GitHub](https://github.com/freemansoft/fs-game-score)
