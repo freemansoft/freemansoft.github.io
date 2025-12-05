@@ -20,5 +20,4 @@
   * There is no Google Playstore artifact at this time.
 * [Windows self signed msix installable](https://github.com/freemansoft/fs-game-score/releases)
   * There is no Microsoft Windows store artifact at this time.
-
-* [freemans-score-card Source Code on GitHub](https://github.com/freemansoft/fs-game-score)
+* [Source Code on GitHub](https://github.com/freemansoft/fs-game-score) `freemans-score-card`
