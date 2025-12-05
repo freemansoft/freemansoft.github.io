@@ -17,7 +17,7 @@
 * [Apple AppStore for iOS iPad](https://apps.apple.com/us/app/freemans-score-card/id6755344139?platform=ipad)
 * [Apple AppStore for macOS Mac](https://apps.apple.com/us/app/freemans-score-card/id6755344139?platform=mac)
 * [Android downloadable APK](https://github.com/freemansoft/fs-game-score/releases)
-  * There is no Google Playstore artifact at this time.
+  * Not yet available in the Google Playstore.
 * [Windows self signed msix installable](https://github.com/freemansoft/fs-game-score/releases)
-  * There is no Microsoft Windows store artifact at this time.
+  * Not yet available in the Microsoft Windows store.
 * [Source Code on GitHub](https://github.com/freemansoft/fs-game-score) `freemans-score-card`
