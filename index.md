@@ -1,7 +1,7 @@
 # Joe Freeman on the Internet
 
 * [GitHub](https://github.com/freemansoft) - all the code
-* [Tech and Skills Blog](https://joe.blog.freemansoft.com)
+* [Tech and Skills Blog](https://joe.blog.freemansoft.com) - over 200 articles!
 * [YouTube Channel](https://www.youtube.com/channel/UCKHhuCt5LPp8defcKMpf7zwhttps://www.youtube.com/channel/UCKHhuCt5LPp8defcKMpf7zw) Billions of microseconds of video!
 * [LinkedIn](https://www.linkedin.com/in/1freeman/)
 * [Bluesky fka-freemansoft](https://bsky.app/profile/fka-freemansoft.bsky.social)
