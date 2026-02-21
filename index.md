@@ -13,6 +13,7 @@
 * ~~Facebook~~
 * ~~Threads~~
 * ~~Instagram~~
+* ~~Twitter~~
 
 ## GitHub pages
 
