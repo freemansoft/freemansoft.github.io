@@ -9,7 +9,7 @@
 ## Joe non tech socials
 
 * [Personal Blog](https://joe-freeman-personal.blogspot.com/)
-* __Reddit - not available__
+* _Reddit - not available_
 * ~~Facebook~~
 * ~~Threads~~
 * ~~Instagram~~
