@@ -1,16 +1,25 @@
 # Joe Freeman on the Internet
 
-* [GitHub](https://github.com/freemansoft)
-* [Blog](https://joe.blog.freemansoft.com)
-* [YouTube Channel](https://www.youtube.com/channel/UCKHhuCt5LPp8defcKMpf7zwhttps://www.youtube.com/channel/UCKHhuCt5LPp8defcKMpf7zw)
+* [GitHub](https://github.com/freemansoft) - all the code
+* [Tech and Skills Blog](https://joe.blog.freemansoft.com)
+* [YouTube Channel](https://www.youtube.com/channel/UCKHhuCt5LPp8defcKMpf7zwhttps://www.youtube.com/channel/UCKHhuCt5LPp8defcKMpf7zw) Billions of microseconds of video!
 * [LinkedIn](https://www.linkedin.com/in/1freeman/)
+* [Bluesky fka-freemansoft](https://bsky.app/profile/fka-freemansoft.bsky.social)
 
-## My GitHub pages web site (this site)
+## Joe non tech socials
+
+* [Personal Blog](https://joe-freeman-personal.blogspot.com/)
+* __Reddit - not available__
+* ~~Facebook~~
+* ~~Threads~~
+* ~~Instagram~~
+
+## GitHub pages
 
 * [This GitHub Pages web site](https://freemansoft.github.io/)
 * [This source for this GitHub Pages hosted web site](https://github.com/freemansoft/freemansoft.github.io)
 
-## FreemanS Score Card multi-platform Flutter Application
+## FreemanS Score Card Flutter Application - multi-platform
 
 * [Public Web Deployment](https://freemansoft.github.io/freemans-score-card/)
 * [Apple AppStore for iOS iPhone](https://apps.apple.com/us/app/freemans-score-card/id6755344139)
