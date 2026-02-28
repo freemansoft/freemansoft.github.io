@@ -27,7 +27,9 @@
 - [Apple AppStore for iOS iPad](https://apps.apple.com/us/app/freemans-score-card/id6755344139?platform=ipad)
 - [Apple AppStore for macOS Mac](https://apps.apple.com/us/app/freemans-score-card/id6755344139?platform=mac)
 - [Android downloadable APK](https://github.com/freemansoft/fs-game-score/releases)
-  - Not yet available in the Google Playstore.
+  - _Not yet available in the Google Playstore._
+  - Select the latest release and download the `fs-game-score-x.y.z-arm64-v8a-release.apk` file.
+  - Install the APK on your Android device. You may need to enable "Install from unknown sources" in your device settings.
 - [Windows self signed msix installable](https://github.com/freemansoft/fs-game-score/releases)
   - Not yet available in the Microsoft Windows store.
 - [Source Code on GitHub](https://github.com/freemansoft/fs-game-score) `freemans-score-card`
