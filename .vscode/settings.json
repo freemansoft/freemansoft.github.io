@@ -1,0 +1,11 @@
+{
+    "python.analysis.typeshedPaths": [
+        "~/.micropico-stubs/micropython-esp32-esp32_generic_s3-stubs==1.27.0.post1"
+    ],
+    "python.analysis.extraPaths": [
+        "",
+        "/Users/joefreeman/.vscode/extensions/wmerkens.vscode-circuitpython-v2-0.3.3/stubs",
+        "/Users/joefreeman/Library/Application Support/Code/User/globalStorage/wmerkens.vscode-circuitpython-v2/bundle/20250412/adafruit-circuitpython-bundle-py-20250412/lib",
+        "~/.micropico-stubs/micropython-esp32-esp32_generic_s3-stubs==1.27.0.post1"
+    ]
+}
